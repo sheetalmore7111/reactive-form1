@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "firstName": "saishyam",
+      "lastName": "sai",
+      "email": "sai@gmail.com",
+      "phone": "1236547890",
+      "company": "sam",
+      "dob": "10000-10-10",
+      "gender": "",
+      "password": "sa",
+      "confirmPassword": "sa",
+      "id": "aa34"
+    },
+    {
+      "firstName": "sheetal",
+      "lastName": "bendre",
+      "email": "sheetalmore7111@gmail.com",
+      "phone": "8108476360",
+      "company": "ci",
+      "dob": "2024-01-05",
+      "gender": "",
+      "password": "ewed",
+      "confirmPassword": "ewd",
+      "id": "e3c9"
+    },
+    {
+      "id": "22c0",
+      "firstName": "pooja",
+      "lastName": "panchal",
+      "email": "pooja@gmail.com",
+      "phone": "1236547890",
+      "company": "ci",
+      "dob": "1996-02-10",
+      "gender": null,
+      "password": "123",
+      "confirmPassword": "123"
+    }
+  ]
+}
